@@ -1,0 +1,10 @@
+{
+    "undef": true,
+    "globals": {
+        "window": true,
+				"document": true,
+				"alert": true,
+				"console": true,
+        "GoodPractices": true
+    }
+}
